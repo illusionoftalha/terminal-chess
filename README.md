@@ -72,7 +72,7 @@ This project was created as part of an academic course at **Usman Institute of T
 | Student ID   | Name             | Role   |
 |--------------|------------------|--------|
 | 26SP-040-SE  | Talha Bin Khalid | Leader |
-| 26SP-016-SE  | Bareera          | Member |
-| 26SP-007-SE  | Anousha          | Member |
-| 26SP-020-SE  | Sadiq            | Member |
-| 26SP-023-SE  | Samana           | Member |
+| 26SP-016-SE  | Bareera Khan     | Member |
+| 26SP-007-SE  | Anousha Salman   | Member |
+| 26SP-020-SE  | Muhammad Sadiq   | Member |
+| 26SP-023-SE  | Syeda Samana     | Member |
